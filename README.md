@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rutvik Ravindra Nare</h1>
 <h3 align="center">Hello Viewers!!! My name is Rutvik Nare, I am study in Final year Computer Engg at PCCoE Pune and I want to becoming a Software Development Engg(SDE). Right now i am gaining my problem solving skills in Data structure and I have a passion for coding and developing new things for learning of new technologies.</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
