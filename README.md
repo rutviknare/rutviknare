@@ -1,11 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rutvik Ravindra Nare</h1>
-<h3 align="center">Hello Viewers!!! My name is Rutvik Nare, I am study in Final year Computer Engg at PCCoE Pune and I want to becoming a Software Development Engg(SDE). Right now i am gaining my problem solving skills in Data structure and I have a passion for coding and developing new things for learning of new technologies.</h3>
+<h3 align="center">Hello Viewers!!! My name is Rutvik Nare, I am Currently working as Software engg at ITC Infotech.I Completed my Engg from PCCOE Pune. I have keen interested in Java, C++, MySQL, SpringBoot, MongoDB. On the basics of this skill I also done many Project which is in my repository.</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutviknare&label=Profile%20views&color=0e75b6&style=flat" alt="rutviknare" /> </p>
 
-- 🔭 I’m currently studying in **Final Year CSE at PCCoE,Pune**
+- 🔭 I’m currently working at **ITC Infotech**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
